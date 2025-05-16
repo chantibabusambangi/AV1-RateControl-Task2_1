@@ -1,0 +1,11 @@
+Svt[info]: -------------------------------------------
+Svt[info]: SVT [version]:	SVT-AV1 Encoder Lib v2.0.0
+Svt[info]: SVT [build]  :	GCC 13.3.0	 64 bit
+Svt[info]: LIB Build date: May  6 2025 16:05:28
+Svt[info]: -------------------------------------------
+Unprocessed tokens: --input-width --input-height --cq-level 
+
+Unprocessed arguments: 480 270 40 
+
+Error in configuration, could not begin encoding! ... 
+Run SvtAv1EncApp --help for a list of options

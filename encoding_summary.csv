@@ -1,0 +1,10 @@
+RC Mode,Parameter,FPS,Peak Memory (MB),Time (s)
+Constant QP,20,1788.5,0.0,0.5
+Constant QP,32,1794.21,0.0,0.5
+Constant QP,40,438276.28,0.0,0.0
+Constant Bitrate,500,1794.38,0.0,0.5
+Constant Bitrate,1000,1792.52,0.0,0.5
+Constant Bitrate,2000,1793.51,0.33,0.5
+Constrained Quality,20,1796.32,0.33,0.5
+Constrained Quality,32,1793.31,0.0,0.5
+Constrained Quality,40,1791.44,0.33,0.5
